@@ -1,0 +1,16 @@
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/service/ClientService.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/service/implement/ClientServiceImplements.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/service/implement/ShopListServiceImplements.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/repository/DetailListRepository.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/dto/DetailList.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/repository/ProductRepository.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/aplication/Application.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/dto/Product.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/config/SecurityJWTConfig.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/repository/ShopListRepository.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/repository/ClientRepository.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/dto/DetailListId.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/service/ShopListService.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/dto/Client.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/dto/ShopList.java
+/Users/eymunozr/Downloads/truper.client.list/src/main/java/com/evaluation/truper/client/list/controller/TruperServiceController.java
